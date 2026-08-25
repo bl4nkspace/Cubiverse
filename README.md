@@ -2,7 +2,7 @@
 
 [![play on itch.io](https://i.imgur.com/gvtr7jn.jpeg)](https://lepcquiparle.itch.io/cubiverse)
 
-Voxel game in python maded with ursina engine and perlin noise modules.  
+Voxel game in python made with Ursina engine and Perlin Noise modules.  
 Based on the "Minecraft Clone" ursina sample.
 
 ## Run the game
@@ -18,13 +18,12 @@ Just run the `main.py` python file
 + change block : 0, 1, 2, 3, 4, 5, 6
 
 ## Required modules
-You need the ursina python module :
-In the cmd and type
+You'll need 2 python modules: ursina and perlin-noise.
+Go in cmd and type
 ```bash
 pip install ursina
 ```
-And also the perlin noise module :
-Type  
+and then
 ```bash
 pip install perlin-noise
 ```
